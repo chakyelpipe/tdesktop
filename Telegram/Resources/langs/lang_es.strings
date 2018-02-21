@@ -1479,4 +1479,37 @@ https://github.com/telegramdesktop/tdesktop/blob/master/LEGAL
 "lng_mac_menu_new_channel" = "Nuevo canal";
 "lng_mac_menu_show" = "Mostrar Telegram";
 
+
+//Extras
+
+"lng_stickers_export" = "Exportar";
+"lng_stickers_export_copied" = "Todos los enlaces de los stickers copiados.";
+
+"lng_telegreat_setting" = "Configuración Telegrat";
+"lng_telegreat_setting_unstable" = "Características inestables";
+"lng_telegreat_setting_callback" = "Mostrar datos de devolución de llamada";
+"lng_telegreat_setting_username" = "Mostroar @username al lado del nombre";
+"lng_telegreat_setting_ignore" = "Ignorar usuarios bloqueados";
+"lng_telegreat_setting_everyuser" = "Ser mencionado por @admin y @everyuser";
+"lng_telegreat_setting_auto_copy" = "Copia automática de texto cuando hace clic";
+"lng_telegreat_setting_typing" = "Tostada En línea/Escribiendo";
+
+"lng_telegreat_goto_first_message" = "Ir al primer mensaje";
+"lng_telegreat_delete_message_warning" = "Esta persona está en tu contacto, debes bloquearlo antes de borrar sus mensajes.";
+"lng_telegreat_mark_as_read" = "Marcar como leido";
+"lng_telegreat_mark_all_as_read" = "Marcar todos como leidos";
+
+"lng_telegreat_online_toast" = "Tostada en línea";
+"lng_telegreat_typing_toast_all" = "Tostada escribiendo (Todos)";
+"lng_telegreat_typing_toast_contact" = "Tostada escribiendo (Contactos)";
+"lng_telegreat_typing_desc" = "El tiempo de duración de la tostada variará, según el registro de mensajes recientes.";
+
+"lng_telegreat_chat_type" = "Tipo de chat";
+"lng_telegreat_user" = "Usuarios";
+"lng_telegreat_group" = "Grupos";
+"lng_telegreat_supergroup" = "Supergrupos";
+"lng_telegreat_channel" = "Canales";
+"lng_telegreat_bot" = "Bots";
+
+
 // Keys finished
